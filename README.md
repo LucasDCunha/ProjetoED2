@@ -17,15 +17,15 @@ Grafos
 
 # **BIBLIOTECAS**
  
->>> StellarGraph
+> StellarGraph
 
->>> Pandas
+> Pandas
  
->>> Charts.js
+> Charts.js
 
->>> Networkx
+> Networkx
 
->>> Pydot
+> Pydot
 
 
 # **BANCO DE DADOS**
