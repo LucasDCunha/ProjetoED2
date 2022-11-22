@@ -17,9 +17,16 @@ Grafos
 
 # **BIBLIOTECAS**
  
-> StellarGraph
-> Charts.js
-> 
+>>> StellarGraph
+
+>>> Pandas
+ 
+>>> Charts.js
+
+>>> Networkx
+
+>>> Pydot
+
 
 # **BANCO DE DADOS**
 
