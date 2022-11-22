@@ -27,6 +27,8 @@ Grafos
 
 > Pydot
 
+> Plotly
+
 
 # **BANCO DE DADOS**
 
