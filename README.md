@@ -5,6 +5,11 @@
 - MARIA JORDANA FERREIRA CAVALCANTE
 
 
+# **DIVISÃO DE TAREFAS**
+
+Dado nossa quantidade reduzida de integrantes, todos estarão responsáveis por todas as partes do projeto
+
+
 # **LINGUAGEM**
 
 Python
@@ -30,6 +35,7 @@ Grafos
 > Plotly
 
 
-# **BANCO DE DADOS**
+# **BANCOS DE DADOS**
 
 https://github.com/LucasDCunha/ProjetoED2/blob/master/AerodromosPublicos.csv
+https://github.com/LucasDCunha/ProjetoED2/blob/master/fluxoAereo.csv
