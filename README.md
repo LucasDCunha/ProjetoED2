@@ -22,17 +22,14 @@ Grafos
 
 # **BIBLIOTECAS**
  
-> StellarGraph
+> Matplotlib
 
 > Pandas
- 
-> Charts.js
 
 > Networkx
 
-> Pydot
 
-> Plotly
+
 
 
 # **BANCOS DE DADOS**
